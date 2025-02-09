@@ -1,0 +1,7 @@
+# קבצי הפעלה ובינאריים
+*.exe
+*.o
+*.out
+/output/
+
+node_modules
